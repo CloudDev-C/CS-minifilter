@@ -1,0 +1,33 @@
+﻿  Building 'CSMFltr' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\CSMFltr.inf
+  Stamping [Version] section with DriverVer=11/18/2020,4.4.37.818
+F:\Fastcup\minifilter\CSMFltr\CSMFltr\CSMFltr.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+F:\Fastcup\minifilter\CSMFltr\CSMFltr\CSMFltr.inf(25-25): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+F:\Fastcup\minifilter\CSMFltr\CSMFltr\CSMFltr.inf(36-36): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+F:\Fastcup\minifilter\CSMFltr\CSMFltr\CSMFltr.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  Constants.c
+  CS_Info.c
+  globals.c
+  List.c
+  MD5.c
+  Util.c
+  CSMFltr.c
+  Generating Code...
+  CSMFltr.vcxproj -> F:\Fastcup\minifilter\CSMFltr\x64\Debug\CSMFltr.sys
+  Done Adding Additional Store
+  Successfully signed: F:\Fastcup\minifilter\CSMFltr\x64\Debug\CSMFltr.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  F:\Fastcup\minifilter\CSMFltr\x64\Debug\CSMFltr\csmfltr.cat
+  Done Adding Additional Store
+  Successfully signed: F:\Fastcup\minifilter\CSMFltr\x64\Debug\CSMFltr\csmfltr.cat
+  
